@@ -1,0 +1,10 @@
+.edit-input{
+    padding: 10px 10px 10px 20px;
+    width: 25%;
+    margin: 20px 0 40px 38%;
+    border: 0.8px solid #7777;
+    border-radius: 15px;
+}
+.edit-input:focus{
+    outline: none;
+}
